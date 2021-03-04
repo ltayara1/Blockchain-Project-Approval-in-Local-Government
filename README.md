@@ -34,6 +34,10 @@ Ganache
 
 Both phases of this project are not necessarily tied to government and could be used in Finance Offices in other private industries to increase accuracy, productivity, and efficiency.
 
+#### Potential Impact on Fintech/Financial Industry
+
+Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in liscensing. 
+
 
 
 ### *Implications*
