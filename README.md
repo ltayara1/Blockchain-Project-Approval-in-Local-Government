@@ -36,7 +36,7 @@ Both phases of this project are not necessarily tied to government and could be 
 
 #### Potential Impact on Fintech/Financial Industry
 
-Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in liscensing. 
+Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in liscensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
 
 
 
