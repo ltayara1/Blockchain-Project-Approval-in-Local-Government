@@ -33,8 +33,15 @@ Approval for the funding to be distributed is very similar to the manual signatu
 The second phase also began in Solidity using Remix. We used a splitter function to take an amount and split it among the different sources according to the indicated percentage. Ganache was also used to provide Ethereum addresses for the blockchain.
 
 
+<<<<<<< HEAD
 ### *Potential Impact on FinTech/Finance Industry*
 Impacts stemming from the rise of Fintech on the Financial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in licensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent.
+=======
+#### Potential Impact on Fintech/Financial Industry
+
+Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in liscensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
+
+>>>>>>> 37a8a638e38122bfb8c6459d0b42f06997de8f1b
 
 
 ### *Implications*
