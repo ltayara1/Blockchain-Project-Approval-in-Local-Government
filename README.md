@@ -33,25 +33,29 @@ Approval for the funding to be distributed is very similar to the manual signatu
 The second phase also began in Solidity using Remix. We used a splitter function to take an amount and split it among the different sources according to the indicated percentage. Ganache was also used to provide Ethereum addresses for the blockchain.
 
 
-#### Potential Impact on Fintech/Financial Industry
+#### *Potential Impact on Fintech/Financial Industry*
 
-Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in liscensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
+Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in licensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
 
 ### *Implications*
 One of the main problems that kept coming to mind throughout this project, from a FinTech perspective, was whether this was worth it as it is now. With the gas limits and cost now, is it worth the cost of the transaction. This could lead to more research on a cheaper way of producing Ethereum though? 
 
 From one teammate's local government perspective, does this cause problems within the entity? Officials like to say that Government is slow for a reason. That reason is to allow thought and care to go into every step. It gives time for questions and for the public to know where their tax money is being spent. If we eliminate the time that goes into it, will we need to build in other processes to allow for thought and public input? The worry of compromised security is still at question here as well. What prevents one level from accessing another level in the approval's address from Ganache? Can hackers obtain this information?
 
-As mentioned in the begining, integrations with other existing systems is an issue. Will they begin to create technology to make the integrations easier? Along similar lines, would there be another industry where this might work better? Our team discussed the use in other tech infrastructure companies where large servers would already be available.
+As mentioned in the beginning, integrations with other existing systems is an issue. Will they begin to create technology to make the integrations easier? Along similar lines, would there be another industry where this might work better? Our team discussed the use in other tech infrastructure companies where large servers would already be available.
 
 
 ### *Conclusion*
-This project used blockchain contracts to solve two different, but related, problems in local government. Although using blockchain makes financial approvals and funding source amendments efficient, local governments are not likely to use it right now. Governments allowing this type of transition would require a huge shift in thought and local tech culture. Besides that, ethereum adoption is a risk since it can be volatile. In the example used in this project, we are not holding any value in the ethereum itself. At some point, it would need to transition to US dollars. In conclusion, the use of blockchain has the potential to allow for more efficiency in financial approval processes but the cost of transactions and the acceptance from entities could delay or prevent its use.
+This project used blockchain contracts to solve two different, but related, problems in local government. Although using blockchain makes financial approvals and funding source amendments efficient, local governments are not likely to use it right now. Governments allowing this type of transition would require a huge shift in thought and local tech culture. Besides that, ethereum adoption is a risk since it can be volatile. In the example used in this project, we are not holding any value in the ethereum itself. At some point, it would need to transition to US dollars. In conclusion, the use of blockchain has the potential to allow for more efficiency in financial approval processes, but the cost of transactions and the acceptance from entities could delay or prevent its use.
 
 
 #### *Sources*
 https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial
+
 https://www.youtube.com/watch?v=8OeTeDWpDWk
+
 https://eeshau.medium.com/decentralized-democracy-166569c3777f
+
 http://eprints.whiterose.ac.uk/117996/1/e_voting_over_ethereum.pdf
+
 https://fc17.ifca.ai/preproceedings/paper_80.pdf
