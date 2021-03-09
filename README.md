@@ -1,22 +1,34 @@
 # ***Smargov*** 
 
 <p align="center">
-  <img width="460" height="300" src="Images/gov.png/460/300">
+  <img src="https://hackernoon.com/hn-images/1*g6n0ua6a417vB_fgdX3Q5A.png" width="600" height="320"/>
+  
 </p>
+
+
 
 
 Blockchain Project Approval in Local Government
 
-## ***Contributors: Alpa Sheladia, Chris Bryant, Lauren Tayara, Brian Withrow, Shana Zaman, and Brandon Srinath***
+## ***Contributors:***  **Alpa Sheladia, Chris Bryant, Lauren Tayara, Brian Withrow, Shana Zaman, and Brandon Srinath**
 
-![government](Images/government.png)
+
+  <p align="center">
+  <img src="https://www.tsts.com/wp-content/uploads/2019/01/government.jpg" width="800" height="350"/>
+  
+</p>
+
+
+
 
 
 ### **Project Research Question**
 
 How can we improve internal local government financial approval processes?
 
-![government1](Images/government1.png)
+<p align="center">
+   <img src="https://cdn.nextgov.com/media/img/upload/2017/08/10/080917digitalgovNG/860x394.jpg" width="600" height="300"/>  
+</p>
 
 
 ## ***Our Vision***
@@ -28,7 +40,12 @@ The public often criticizes government as being inefficient and technologically 
 
 ## ***Phase I***
 
-![Legaltech](Images/Legaltech.png)
+<p align="center">
+  <img src="https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/013/digital_government_Adobe.jpg" width="800" height="350"/>
+  
+</p>
+
+
 
 
 The first part of the project addresses the inefficiencies in processes in government finance offices. We created a contract to simplify processes in a government finance office when large capital projects are concerned. Using the concept of voting, we applied Solidity to mimic an approval process. Since members from multiple levels of government (i.e Board, Management, Finance, Budget Analyst, etc) need to physically sign a paper contract that is passed around to different departments across multiple days for approval, it often slows down the process. The idea is that use an electronic contract for approval will eliminate the intricacies of this process. This also ensures a unanimous agreement on the capital project without needing to question signatures. Essentially, we are eliminating the need for physical signatures and making the process more secure and efficient. 
@@ -36,14 +53,21 @@ The first part of the project addresses the inefficiencies in processes in gover
 
 ### ***Tech Used and Process***
 
-![govtech](Images/govtech.png)
-
+<p align="center">
+   <img src="https://business.comcast.com/community/images/librariesprovider3/supporting/02_28_government-trends.png?sfvrsn=7b9639d4_0" width="800" height="350"/>
+  
+</p>
 The first phase began in Solidity using Remix to create the actual contract using Ethereum from a Ganache wallet in the blockchain. To create the local interface online, we used Truffle - Petshop, Truffle, Javascript, Node JS, and HTML.
 
 
 ## ***Phase II***
 
-![regulation-tech](Images/regulation-tech.png)
+<p align="center">
+   <img src="https://z8n2g7q9.rocketcdn.me/wp-content/uploads/2020/10/Your-Basic-Guide-to-KYC-and-AML-Compliance.jpg" width="800" height="350"/>
+  
+</p>
+
+
 
 In this phase of the project, we added a level for dividing the money required to complete the capital project. These types of projects often require funding from multiple sources including: 
 - General Fund (general tax-payer money)
@@ -63,7 +87,11 @@ The second phase also began in Solidity using Remix. We used a splitter function
 
 ### ***Potential Impact on Fintech/Financial Industry***
 
-![govtechfuture](Images/govtechfuture.png)
+<p align="center">
+   <img src="https://icma.org/sites/default/files/Technology%20Future.jpg" width="800" height="350"/>  
+</p>
+
+
 
 Impacts stemming from the rise of Fintech on the Finanacial Industry and government service are vast and wide. Such impacts as merging FinTech companies with financial institutions to balance consumer protection, improving payment systems that span across borders with built in licensing. Governments can also partner with FinTech to release funds to citizens quicker than former methods that were slow and high risk. Data can also be tracked and on blockchain platforms that cannot be altered, remaining transparent. 
 
@@ -80,7 +108,10 @@ As mentioned in the beginning, integrations with other existing systems is an is
 
 ### ***Conclusion***
 
-![gov3](Images/gov3.png)
+<p align="center">
+   <img src="https://miro.medium.com/max/2000/1*yJDp_MBcBFtPs3DzrPLZGQ.jpeg" width="800" height="350"/>
+  
+</p>
 
 This project used blockchain contracts to solve two different, but related, problems in local government. Although using blockchain makes financial approvals and funding source amendments efficient, local governments are not likely to use it right now. Governments allowing this type of transition would require a huge shift in thought and local tech culture. Besides that, ethereum adoption is a risk since it can be volatile. In the example used in this project, we are not holding any value in the ethereum itself. At some point, it would need to transition to US dollars. In conclusion, the use of blockchain has the potential to allow for more efficiency in financial approval processes, but the cost of transactions and the acceptance from entities could delay or prevent its use.
 
